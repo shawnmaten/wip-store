@@ -13559,6 +13559,22 @@ __metadata:
   languageName: node
   linkType: hard
 
+"store@workspace:store":
+  version: 0.0.0-use.local
+  resolution: "store@workspace:store"
+  dependencies:
+    "@types/node": 17.0.31
+    "@types/react": 18.0.9
+    "@types/react-dom": 18.0.3
+    eslint: 8.15.0
+    eslint-config-next: 12.1.6
+    next: 12.1.6
+    react: 18.1.0
+    react-dom: 18.1.0
+    typescript: 4.6.4
+  languageName: unknown
+  linkType: soft
+
 "stream-browserify@npm:^2.0.1":
   version: 2.0.2
   resolution: "stream-browserify@npm:2.0.2"
